@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-vacaca
-=======
-ce li hai fatti tu i??????
-
-ce li ho fatti gialli
->>>>>>> e6e0c61a4353fb73b14fe41c572631b9a6d202a3
+tutto
